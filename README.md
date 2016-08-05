@@ -31,3 +31,8 @@ j to where u want
 shift i
 esc
 ```
+
+### save readonly
+
+`:w !sudo tee %`
+
